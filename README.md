@@ -69,3 +69,4 @@
 [Bartosz Ciechanowski](http://ciechanowski.me)| Bartosz
 [Big Nerd Ranch Blog](http://blog.bignerdranch.com)| Big Nerd
 [Nils Hayat](http://nilsou.com/)| Nils
+[Krzysztof Zablocki](http://www.merowing.info/)|Krzysztof Zablocki
