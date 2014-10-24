@@ -71,7 +71,7 @@
 [Nils Hayat](http://nilsou.com/)| Nils
 [Krzysztof Zablocki](http://www.merowing.info/)|Krzysztof Zablocki
 
-GUI设计资源
+UI设计资源
 
 地址|设计师
 ---- | -----
