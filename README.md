@@ -70,6 +70,7 @@
 [Big Nerd Ranch Blog](http://blog.bignerdranch.com)| Big Nerd
 [Nils Hayat](http://nilsou.com/)| Nils
 [Krzysztof Zablocki](http://www.merowing.info/)|Krzysztof Zablocki
+[Double Encore](http://www.doubleencore.com/2013/09/essential-ios-7-developers-guide/)|Double Encore
 
 UI设计资源
 
