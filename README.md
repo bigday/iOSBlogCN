@@ -59,6 +59,7 @@
 [ddrccw](http://ddrccw.github.io/) | <http://ddrccw.github.io/>
 [萧宸宇](http://iiiyu.com/) | <http://iiiyu.com/>
 [夢沉抹大拉](http://blog.imaou.com/) | <http://blog.imaou.com/>
+[姚翔](http://sherlockyao.com/) | <http://sherlockyao.com/atom.xml>
 
 英文Blog
 
