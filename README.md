@@ -57,7 +57,7 @@
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [objc中国](http://objccn.io/) | <http://objccn.io/>
 [ddrccw](http://ddrccw.github.io/) | <http://ddrccw.github.io/>
-[夢沉抹大拉](http://blog.imaou.com/) | <http://blog.imaou.com/>
+[夢沉抹大拉](http://blog.imaou.com/)※ | <http://blog.imaou.com/>
 [姚翔](http://sherlockyao.com/) | <http://sherlockyao.com/atom.xml>
 [bifidy](http://bifidy.net/) | <http://bifidy.net/>
 
