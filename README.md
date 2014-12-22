@@ -60,6 +60,7 @@
 [夢沉抹大拉](http://blog.imaou.com/)※ | <http://blog.imaou.com/>
 [姚翔](http://sherlockyao.com/) | <http://sherlockyao.com/atom.xml>
 [bifidy](http://bifidy.net/) | <http://bifidy.net/>
+[Migrant](http://objcio.com/) | <http://objcio.com/>
 
 英文Blog
 
