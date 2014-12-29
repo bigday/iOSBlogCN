@@ -61,6 +61,7 @@
 [姚翔](http://sherlockyao.com/) | <http://sherlockyao.com/atom.xml>
 [bifidy](http://bifidy.net/) | <http://bifidy.net/>
 [Migrant](http://objcio.com/) | <http://objcio.com/>
+[青玉伏案](http://www.cnblogs.com/ludashi/) | <http://www.cnblogs.com/ludashi/>
 
 英文Blog
 
