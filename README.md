@@ -62,6 +62,7 @@
 [bifidy](http://bifidy.net/) | <http://bifidy.net/>
 [Migrant](http://objcio.com/) | <http://objcio.com/>
 [青玉伏案](http://www.cnblogs.com/ludashi/) | <http://www.cnblogs.com/ludashi/>
+[VITO](http://vit0.com/) | <http://vit0.com/>
 
 英文Blog
 
