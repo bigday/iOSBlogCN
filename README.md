@@ -19,7 +19,7 @@
 [念茜的博客-1](http://blog.csdn.net/yiyaaixuexi)[ -2](http://nianxi.net/) | <http://blog.csdn.net/yiyaaixuexi/rss/list>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
-[txx's blog](http://blog.t-xx.me) | <http://blog.t-xx.me/atom.xml>
+[txx's blog](http://blog.t-xx.me)域名过期0112 | <http://blog.t-xx.me/atom.xml>
 [KEVIN BLOG](http://imkevin.me) | <http://imkevin.me/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
