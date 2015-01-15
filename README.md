@@ -15,12 +15,11 @@
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[Lex iOS notes](http://ios.lextang.com) | <http://ios.lextang.com/rss>
 [念茜的博客-1](http://blog.csdn.net/yiyaaixuexi)[ -2](http://nianxi.net/) | <http://blog.csdn.net/yiyaaixuexi/rss/list>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [txx's blog](http://blog.t-xx.me)域名过期0112 | <http://blog.t-xx.me/atom.xml>
-[KEVIN BLOG](http://imkevin.me) | <http://imkevin.me/rss>
+[KEVIN BLOG](http://imkevin.me)[ -2](http://zhowkev.in/) | <http://imkevin.me/rss>
 [阿毛的蛋疼地](http://www.xiangwangfeng.com) | <http://www.xiangwangfeng.com/atom.xml>
 [亚庆的 Blog](http://billwang1990.github.io) | <http://billwang1990.github.io/atom.xml>
 [Nonomori](http://nonomori.farbox.com) | <http://nonomori.farbox.com/feed>
