@@ -79,6 +79,7 @@
 [Nils Hayat](http://nilsou.com/)| Nils
 [Krzysztof Zablocki](http://www.merowing.info/)|Krzysztof Zablocki
 [Double Encore](http://www.doubleencore.com/2013/09/essential-ios-7-developers-guide/)|Double Encore
+[Paul Solt](http://iphonedev.tv/blog/)|Paul Solt 
 
 UI设计资源
 
