@@ -65,6 +65,7 @@
 [sunnyxx](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/>
 [汪海洋](http://blog.callmewhy.com/) | <http://blog.callmewhy.com/>
 [田伟宇](http://casatwy.com/) | <http://casatwy.com/>
+[伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/>
 
 英文Blog
 
