@@ -68,6 +68,7 @@
 [伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/>
 [庞海礁](http://www.olinone.com/) | <http://www.olinone.com/>
 [刘园园](http://www.mgenware.com/blog/) | <http://www.mgenware.com/blog/>
+[isaced](http://www.isaced.com/) | <http://www.isaced.com/>
 
 英文Blog
 
